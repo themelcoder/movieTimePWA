@@ -9,14 +9,14 @@ Incluye una interfaz responsive, diseño visual limpio y despliegue en Netlify y
 
 # ✨ Funcionalidades principales
 
-🔎 Búsqueda y exploración de películas por categoría
-⭐ Películas favoritas (IndexedDB / PouchDB)
-📱 PWA instalable en móvil y desktop
-🔌 Modo offline completo gracias a Service Workers
-🎨 UI responsive y orientada a la experiencia de usuario
-🎥 Detalles completos de cada película
-⚙️ Integración real con API ([TMDB](https://www.themoviedb.org/?language=es))
-🚀 Deploy en Netlify y GitHub Pages
+- 🔎 Búsqueda y exploración de películas por categoría  
+- ⭐ Películas favoritas (IndexedDB / PouchDB)  
+- 📱 PWA instalable en móvil y desktop  
+- 🔌 Modo offline completo gracias a Service Workers  
+- 🎨 UI responsive y orientada a la experiencia de usuario  
+- 🎥 Detalles completos de cada película  
+- ⚙️ Integración real con API ([TMDB](https://www.themoviedb.org/?language=es))  
+- 🚀 Deploy en Netlify y GitHub Pages  
 
 # 🛠️ Tecnologías destacadas
 
